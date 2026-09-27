@@ -38,4 +38,4 @@ GitHub shows it only if **all** of these are true (from GitHub's documentation):
 ## Also do this (profile settings)
 
 - Add a clear profile photo, your name, and a one-line bio (e.g. "Student · AI Engineering & Data Science").
-- **Pin** your best 4 repositories (profile → *Customize your pins*): Gulf Electricity Transition, TrafficFlowBench (after the competition, once the repo is public), OrbitFlame AI, Pop Calculator.
+- **Pin** your best 4 repositories (profile → *Customize your pins*): TrafficFlowBench (once the repo is public, after the competition), Gulf Electricity Transition, OrbitFlame AI, Pop Calculator.
